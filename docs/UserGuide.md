@@ -44,13 +44,15 @@ If you can type fast, CoDoc can get your **contact management** tasks **done fas
 
 --------------------------------------------------------------------------------------------------------------------
 ## Navigating the User Guide
-Before you start using CoDoc, you are recommended to read the
-[Glossary](#glossary), [Quick Start](#quick-start) as well as [Notes about the command format](#notes-about-the-command-format)
-sections, which will provide the necessary information to allow you to familiarise yourself with the structure of this
-User Guide and help you navigate it with ease.
+Thank you for using CoDoc.
 
-If you are first time users of CoDoc, we highly recommend that you read through the **entire user guide** in order to become 
-**familiar** with CoDoc and to gain the most out of your experience.
+Before you start using CoDoc, we recommended reading the
+[Glossary](#glossary), [Quick Start](#quick-start) as well as [Notes about the command format](#notes-about-the-command-format)
+sections, which will provide you the necessary information to familiarise yourself with the structure of this
+User Guide thereby making navigation easier.
+
+If you are amfirst time users of CoDoc, we highly recommend that you read through the **entire user guide** in order to become 
+**familiar** with CoDoc and to gain the most out of your experience. Don't worry, it is not as long as it seems.
 
 We have provided a quick tutorial on how to [download and install](#download-and-installation) CoDoc, 
 how to make sense of the [interface](#navigation), as well as how to [properly use each command](#tutorial). 
@@ -65,13 +67,14 @@ Each command is complete with:
 4. Picture of the command in action
 5. Any additional tips or warnings
 
-If you have questions regarding storing of information, you may proceed to our [Data Management Section](#data-management).
+If you have questions regarding how your data is stored, proceed to our [Data Management Section](#data-management).
 
 Should you have more questions, you may proceed to our [FAQ](#faq). We hope it will be sufficient to clarify your doubts.
 
 Whenever you are in doubt, forget the command formats for any feature, need help troubleshooting
-or you simply want to maximise your use of this application, do remember to revisit this User Guide.
-Thank you for choosing CoDoc, and we hope you have a pleasant experience :+1:
+or  simply want to maximise your use of this application, do remember to revisit this User Guide.
+
+Once again, thank you for choosing CoDoc, and we hope you have a pleasant experience :+1:
 
 [Scroll back to *Table of Contents*](#table-of-contents)
 
