@@ -500,9 +500,9 @@ _Details coming soon ..._
 
 ## Additional Resources
 ### How To Check Java Version
-[Scroll back to *Downloading CoDoc*](#downloading-codoc)
+[Scroll back to *Downloading CoDoc*](#download-and-installation)
 ### How to Open CoDoc
-[Scroll back to *Downloading CoDoc*](#downloading-codoc)
+[Scroll back to *Downloading CoDoc*](#download-and-installation)
 
 --------------------------------------------------------------------------------------------------------------------
 [Scroll back to *Table of Contents*](#table-of-contents)
