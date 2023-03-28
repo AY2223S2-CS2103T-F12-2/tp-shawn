@@ -4,10 +4,10 @@ title: User Guide
 ---
 # CoDoc User Guide
 #### Welcome to CoDoc, a desktop app for students in SoC to connect with each other for the benefit of their course of study.
-CoDoc is optimized for use via a **Command Line Interface (CLI)** while still having the benefits of a **Graphical User Interface (GUI)**. 
-If you can type fast, CoDoc can get your contact management tasks done **faster** than traditional GUI apps, **improving** your **networking experience**.
+CoDoc is **optimized for** use via a **Command Line Interface (CLI)** while still having the **benefits of** a **Graphical User Interface (GUI)**. 
+If you can type fast, CoDoc can get your **contact management** tasks **done faster** than traditional GUI apps, **improving** your **networking experience**.
 
-You can spend **less time** _keeping track of your contacts_ and _searching through chats_, and spend **more time** making _meaningful connections_ and _accomplish your goals_.
+**Spend less time** _keeping track of your contacts_ or _searching through chats_ and **more time** making _meaningful connections_ and _accomplish your goals_.
 
 <img src="images/Ui.png"/>
 
