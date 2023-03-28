@@ -226,7 +226,7 @@ As shown below, he does not have any _modules_ currently.
 
 You can enter `view s` as well if you want to see Bob's _skills_. You can also view other contacts by specifying the person's index in the list i.e. `view 2` would load Nicole Lee in the info panel.
 
-:bulb: Alternatively, you can also click on Bob's name in the _Person List Panel_ to bring up his information onto the _Info Panel_.
+💡 **Tip:** Alternatively, you can also click on Bob's name in the _Person List Panel_ to bring up his information onto the _Info Panel_.
 
 **Related docs:** [Viewing a person/Changing tabs: `view`](#viewing-a-personchanging-tabs--view)
 
@@ -276,10 +276,10 @@ Lastly, if you need more info on the usage of each command, you can refer to the
 
 ### Viewing help : `help`
 
-`help`<br>
+
+Opens help menu—Equivalent to clicking Help > Help F1 via the GUI's *Menu Bar*. <br>
+`help`
 > <img src="images/UiHelpMenu.png"/>
-> * Opens help menu <br>
-> * Equivalent to clicking Help > Help F1 via the GUI <br>
 
 [Scroll back to *Table of Contents*](#table-of-contents)
 
@@ -439,9 +439,7 @@ E.g. `delete 1` will delete the current person at index 1 as shown in the list p
 
 ### Exiting the program : `exit`
 
-Exits the program. <br>
-Equivalent to clicking the close button via the GUI. <br>
-
+Exits the program—equivalent to clicking the close button via the GUI. <br>
 >`exit`<br>
  
 
