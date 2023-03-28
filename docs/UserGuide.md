@@ -162,7 +162,7 @@ Before you can use CoDoc, you need to download it. To do this, follow these step
    2. `java -jar codoc.jar` to run the application.<br>
    3. A window similar to the one below should appear in a few seconds.
 
-      <img src="images/Ui.png"/>
+      <img src="images/Ui-minimised.png"/>
       <br>
 
 [Scroll back to *Table of Contents*](#table-of-contents)
