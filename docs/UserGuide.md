@@ -277,7 +277,8 @@ Lastly, if you need more info on the usage of each command, you can refer to the
 ### Viewing help : `help`
 
 
-Opens help menu—Equivalent to clicking Help > Help F1 via the GUI's *Menu Bar*. <br>
+Opens help menu. <br>
+Equivalent to clicking Help > Help F1 via the GUI's *Menu Bar*. <br>
 `help`
 > <img src="images/UiHelpMenu.png"/>
 
@@ -439,7 +440,8 @@ E.g. `delete 1` will delete the current person at index 1 as shown in the list p
 
 ### Exiting the program : `exit`
 
-Exits the program—equivalent to clicking the close button via the GUI. <br>
+Exits the program. <br>
+Equivalent to clicking the close button via the GUI. <br>
 >`exit`<br>
  
 
