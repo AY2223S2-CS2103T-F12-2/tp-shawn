@@ -226,6 +226,8 @@ As shown below, he does not have any _modules_ currently.
 
 You can enter `view s` as well if you want to see Bob's _skills_. You can also view other contacts by specifying the person's index in the list i.e. `view 2` would load Nicole Lee in the info panel.
 
+:bulb: Alternatively, you can also click on Bob's name in the _Person List Panel_ to bring up his information onto the _Info Panel_.
+
 **Related docs:** [Viewing a person/Changing tabs: `view`](#viewing-a-personchanging-tabs--view)
 
 #### 3. Editing a person's modules
