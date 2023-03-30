@@ -738,8 +738,6 @@ We also chose to make our find command case-insensitive to increase the speed of
 
 <div style="page-break-after: always;"></div>
 
-[Scroll back to top](#table-of-contents)
-
 --------------------------------------------------------------------------------------------------------------------
 ### **Model Implementation**
 
